@@ -1,6 +1,6 @@
 # WraithSwap API
 
-The WraithSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com etc.) to surface WraithSwap liquidity
+The WraithSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com etc.) and developers to easily surface WraithSwap liquidity
 and volume information. All information is fetched from the underlying subgraphs we provide for WraithSwap
 
 ## API Documentation
