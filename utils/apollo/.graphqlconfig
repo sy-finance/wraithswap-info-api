@@ -1,0 +1,15 @@
+{
+  "name": "WraithSwap Exchange LITE",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "WraithSwap Exchange LITE": {
+        "url": "https://api.bscgraph.org/subgraphs/name/pancakeswap/exchange-lite",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
